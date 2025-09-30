@@ -36,3 +36,11 @@ Processed a CSV dataset of user-item ratings and predicted scores for unrated it
 Generated top-N recommendations for a target user based on similarity with other users.
 
 Focused on efficient data structures, file I/O, and stream-based processing.
+#OUTPUT
+<img width="1023" height="348" alt="Image" src="https://github.com/user-attachments/assets/3833dc2b-3e74-436e-8842-018b483ba383" />
+
+![Image](https://github.com/user-attachments/assets/26ce5e22-e05a-4207-997c-33af6bd82e10)
+
+<img width="994" height="533" alt="Image" src="https://github.com/user-attachments/assets/d5537bc5-3c4b-42fd-8bec-a8dbb1c0c391" />
+
+<img width="824" height="452" alt="Image" src="https://github.com/user-attachments/assets/4adfd245-57bc-4910-aa6f-bc84bae1a53c" />
